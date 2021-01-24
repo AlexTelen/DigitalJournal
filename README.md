@@ -1,1 +1,1 @@
-# DijitalJournal
+# DigitalJournal
